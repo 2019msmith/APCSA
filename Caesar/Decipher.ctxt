@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Decipher
+comment1.params=theMessage
+comment1.target=void\ setMessage1(java.lang.String)
+comment2.params=theChoice
+comment2.target=void\ setChoice1(java.lang.String)
+comment3.params=theShift
+comment3.target=void\ setShift1(int)
+comment4.params=
+comment4.target=java.lang.String\ getMessage1()
+comment5.params=
+comment5.target=java.lang.String\ getChoice1()
+comment6.params=
+comment6.target=int\ getShift1()
+comment7.params=n\ h
+comment7.target=java.lang.String\ Decrypt(java.lang.String,\ int)
+numComments=8

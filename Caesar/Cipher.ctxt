@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Cipher
+comment1.params=theMessage
+comment1.target=void\ setMessage(java.lang.String)
+comment2.params=theChoice
+comment2.target=void\ setChoice(java.lang.String)
+comment3.params=theShift
+comment3.target=void\ setShift(int)
+comment4.params=
+comment4.target=java.lang.String\ getMessage()
+comment5.params=
+comment5.target=java.lang.String\ getChoice()
+comment6.params=
+comment6.target=int\ getShift()
+comment7.params=m\ s
+comment7.target=java.lang.String\ Encrypt(java.lang.String,\ int)
+numComments=8
